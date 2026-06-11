@@ -7,11 +7,4 @@ Security & Compliance Engineer at [Cockroach Labs](https://www.cockroachlabs.com
 - **Automation** — Policy-as-Code, evidence collection, compliance pipelines
 - **Risk Management** — Risk registers, vendor risk assessments, control testing
 
-## Projects
 
-- [compliance-automation](https://github.com/Ay0G/compliance-automation) — GRC toolkit with risk register, controls evaluation, and evidence collection
-
-## Certifications
-
-- AWS Security Specialty
-- CISSP
