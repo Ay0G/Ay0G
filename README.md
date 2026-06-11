@@ -1,4 +1,4 @@
-Security & Compliance Engineer at [Cockroach Labs](https://www.cockroachlabs.com/).
+Security & Compliance Engineer at [Cockroach Labs](https://www.cockroachlabs.com/). I write Python and scripts to automate GRC work — evidence collection, control testing, policy enforcement, and compliance pipelines.
 
 ## Areas
 
